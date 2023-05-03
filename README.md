@@ -14,4 +14,4 @@ Our study proposes a novel approach based on climate data to forecast dengue and
 The repo for the streamlit webapp, which was hosted on live:
 https://github.com/nalinrajendran/dengue-forecast/tree/main
 
-This contains all the files, required for the hosted app, which predicts the Dengue case-counts for the future 12 months.
+This contains all the files, required for the hosted app, which predicts the Dengue case-counts for the future 12 months...
